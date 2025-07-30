@@ -5,13 +5,13 @@ const App = () => {
     <div>
       <h1>Hello to the world</h1>
       <h1>Cephas is enjoying Konami 202</h1>
-      <h1>Cephas is enjoying Konami 202</h1>
-      <h1>Cephas is enjoying Konami 202</h1>
-      <h1>Cephas is enjoying Konami 202</h1>
-      <h1>Cephas is enjoying Konami 202</h1>
-      <h1>Cephas is enjoying Konami 202</h1>
-      <h1>Cephas is enjoying Konami 202</h1>
-      <h1>Cephas is enjoying Konami 202</h1>
+      <h1>Cephas is enjoying  football Konami</h1>
+      <h1>Cephas is enjoying  football Konami</h1>
+      <h1>Cephas is enjoying  football Konami</h1>
+      <h1>Cephas is enjoying  football Konami</h1>
+      <h1>Cephas is enjoying  football Konami</h1>
+      <h1>Cephas is enjoying  football Konami</h1>
+      <h1>Cephas is enjoying  football Konami</h1>
     </div>
   );
 }
